@@ -1,5 +1,6 @@
 # MRAC-Controller
 Project date: Mar 2020
+
 Basic implementation of model reference adaptive controller in Simulink.
 
 1. NN_MRAC : This file refers to the neural network based controller.
